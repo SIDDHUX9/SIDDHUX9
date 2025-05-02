@@ -1,7 +1,7 @@
 # Hi there, I'm Siddhu 👋
 
 Welcome to my GitHub! I'm a passionate **Web Developer** and **Tech Enthusiast** on a mission to create innovative and impactful projects. 🚀  
-I love solving complex problems with clean, efficient code and always strive to learn new technologies and improve my skills.
+I love solving complex problems with clean, efficient code and always strive to learn new technologies and improve my skills. 
 
 ---
 
