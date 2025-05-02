@@ -38,6 +38,12 @@ I love solving complex problems with clean, efficient code and always strive to 
 
 ---
 
+## 🧑‍💻 My Code Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDDHUX9&theme=radical&hide_border=true)
+
+---
+
 ## 🚀 Current Projects
 
 - **[SmartLoads]([https://github.com/SIDDHUX9/X9LOAD)**: A live vehicle tracking and logistics platform for better transportation management.
@@ -53,11 +59,6 @@ I love solving complex problems with clean, efficient code and always strive to 
 
 ---
 
-## 🧑‍💻 My Code Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDDHUX9&theme=radical&hide_border=true)
-
----
 
 ## 🚀 Projects
 
