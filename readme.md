@@ -22,14 +22,6 @@ I love solving complex problems with clean, efficient code and always strive to 
 
 ---
 
-## 🌱 I’m Currently Learning:
-
-- **Cybersecurity**: Exploring the world of ethical hacking and security protocols.
-- **Web Development**: Advanced React and Node.js to build full-stack applications.
-- **C++**: Deep diving into Data Structures and Algorithms.
-
----
-
 ## 📈 GitHub Activity & Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHUX9&layout=compact&theme=radical)
@@ -41,6 +33,14 @@ I love solving complex problems with clean, efficient code and always strive to 
 ## 🧑‍💻 My Code Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDDHUX9&theme=radical&hide_border=true)
+
+---
+
+## 🌱 I’m Currently Learning:
+
+- **Cybersecurity**: Exploring the world of ethical hacking and security protocols.
+- **Web Development**: Advanced React and Node.js to build full-stack applications.
+- **C++**: Deep diving into Data Structures and Algorithms.
 
 ---
 
