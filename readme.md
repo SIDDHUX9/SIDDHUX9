@@ -40,16 +40,16 @@ I love solving complex problems with clean, efficient code and always strive to 
 
 ## 🚀 Current Projects
 
-- **[SmartLoads]([https://github.com/SIDDHUX9/smartloads](https://siddhux9.github.io/X9LOAD/))**: A live vehicle tracking and logistics platform for better transportation management.
-- - **[glowbunny](https://github.com/SIDDHUX9/GlowBunny.com)**: A skincare E-commerce which suggests products personalised for you.
-- **[Facemash](facemahs)**: programmed Voting Algorithm for Facemash(all consents were taken by owner).
+- **[SmartLoads]([https://github.com/SIDDHUX9/X9LOAD)**: A live vehicle tracking and logistics platform for better transportation management.
+- **[glowbunny](https://github.com/SIDDHUX9/GlowBunny.com)**: A skincare E-commerce which suggests products personalised for you.
+- **[Facemash](https://code9-blip.github.io/facemash/)**: programmed Voting Algorithm for Facemash & Linked Firebase(all consents were taken by owner).
 
 ---
 
 ## 📫 How to Reach Me:
 
-- **Email**: [siddhux9@example.com](mailto:siddhu3116@gmail.com)
-- **LinkedIn**: [Siddhux9](https://www.linkedin.com/in/siddhu-singh-aa5b58310/)
+- **Email**: [Gmail](mailto:siddhu3116@gmail.com)
+- **LinkedIn**: [Siddhu Singh](https://www.linkedin.com/in/siddhu-singh-aa5b58310/)
 
 ---
 
@@ -104,7 +104,7 @@ An innovative live vehicle tracking and logistics platform.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-blue?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/React-16.13-blue?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-14.x-green?style=flat-square&logo=node.js)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
