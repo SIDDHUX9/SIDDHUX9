@@ -63,7 +63,6 @@ I love solving complex problems with clean, efficient code and always strive to 
 
 ### [SmartLoads](https://siddhux9.github.io/X9LOAD/) 
 An innovative live vehicle tracking and logistics platform.
-- ![Build Status](https://img.shields.io/travis/SIDDHUX9/X9LOAD)
 - ![License](https://img.shields.io/badge/license-MIT-blue)
 - ![Contributors](https://img.shields.io/github/contributors/SIDDHUX9/X9LOAD)
 - ![Last Commit](https://img.shields.io/github/last-commit/SIDDHUX9/X9LOAD)
