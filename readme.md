@@ -10,8 +10,6 @@ I love solving complex problems with clean, efficient code and always strive to 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-blue?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-16.13-blue?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-14.x-green?style=flat-square&logo=node.js)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-yellow?style=flat-square&logo=github-actions)
 
 ---
