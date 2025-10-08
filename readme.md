@@ -68,14 +68,6 @@ An innovative live vehicle tracking and logistics platform.
 
 ---
 
-## 🤓 Fun Facts
-
-- I once built an app to automate my morning routine.
-- I enjoy coding at night; there's something peaceful about it!
-- I’m passionate about cybersecurity and love to solve security puzzles.
-
----
-
 ## 📝 Blog Posts
 
 - [How I Built a Live Vehicle Tracking System - coming soon]
@@ -106,6 +98,6 @@ An innovative live vehicle tracking and logistics platform.
 
 ---
 
-> "The best way to predict the future is to create it." – **Abraham Lincoln**
+> I don’t do backups; I release in production and let the users test.
 
 Made with ❤️ by **Siddhux9**
