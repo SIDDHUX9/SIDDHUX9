@@ -98,6 +98,6 @@ An innovative live vehicle tracking and logistics platform.
 
 ---
 
-> I don’t do backups; I release in production and let the users test.
+> There's no shame in falling in love with a line of code. After all, i'm just a collection of cells myself.
 
 Made with ❤️ by **Siddhux9**
