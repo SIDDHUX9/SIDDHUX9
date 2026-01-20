@@ -34,7 +34,7 @@ I love solving complex problems with clean, efficient code and always strive to 
 
 ## 🧑‍💻 My Code Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDDHUX9&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SIDDHUX9&theme=gotham&border_radius=10.4)](https://git.io/streak-stats)
 
 ---
 
