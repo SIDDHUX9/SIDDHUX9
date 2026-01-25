@@ -1,4 +1,4 @@
-# Hi there, I'm Siddhu 👋
+ # Hi there, I'm Siddhu 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Web3+Builder+%7C+Blockchain+Developer;Smart+Contracts+%7C+dApps+%7C+On-chain+Systems;Hackathon+Driven+%7C+Learning+by+Building" alt="Typing SVG" />
@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate **Web Developer** and **Tech Enthusiast**
 I love solving complex problems with clean, efficient code and always strive to learn new technologies and improve my skills. 
 
 ---
-
+ 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
