@@ -1,105 +1,132 @@
-# ⚡ Siddhu ⚡
+# Hi, I’m Siddhu 👋  
+**Builder · Web3 Systems · AI × Crypto × Security**
 
-**Web3 Systems · AI Verification · Security-First Builder**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Web3+Infrastructure+Builder;AI+%E2%80%A2+Zero-Knowledge+%E2%80%A2+On-chain+Systems;Learning+by+Building+Real+Things" alt="Typing SVG" />
+</p>
 
----
+I build **real systems**, not demo apps — mostly at the intersection of  
+**Web3 infrastructure, AI verification, and security-first design**.
 
-## 🧠 Mental Model
-
-idea → mechanism → threat model → code → break it → fix it → ship
-
-
-I like working where **failure is expensive** and correctness matters.
-
----
-
-## ⚡ Focus Zones
-
-- 🚀 Web3 Infrastructure  
-- 🤖 AI + Verification  
-- 🔒 Security & Threat Modeling  
-- 🧩 Complex Systems  
+My portfolio lives here 👉 **https://siddhu.info**  
+(GitHub is where the code and experiments happen.)
 
 ---
 
-## 🧪 Selected Systems (Not Toy Projects)
+## 🧠 What I Focus On
+- Web3 infrastructure & protocol-level thinking  
+- AI + cryptographic verification (ZK-adjacent systems)  
+- Security-aware product design  
+- Turning complex ideas into working systems  
 
-### 🧠 Deepfake Hunters · Web3 · 2026
-Decentralized prediction market to fight AI misinformation.  
-Incentivizes users to identify synthetic media using transparent settlement  
-and probabilistic verification.
+---
+
+## 🚀 Selected Projects (High-Signal Only)
+
+### **Deepfake Hunters** · Web3 · 2026  
+**Decentralized AI misinformation prediction market**
+
+A trustless system to identify and flag AI-generated media using:
+- Aptos for transparent settlement  
+- Immutable content archiving  
+- Probabilistic AI verification  
+- Incentive-driven prediction markets  
 
 **Stack:** Aptos · Move · React · TypeScript  
-**Signal:** Mechanism design + AI + crypto
+🔗 Source available on request
 
 ---
 
-### 🔗 Zk-Liquidate · Web3 · 2025
-Cross-chain liquidation infrastructure using **ZK-verified intents**  
-to eliminate oracle desync, front-running, and failed execution.
+### **Zk-Liquidate** · Web3 · 2025  
+**Cross-chain liquidation infrastructure with ZK-verified intents**
 
-**Stack:** Polygon · zkEVM · Solidity  
-**Signal:** DeFi infra, not a dApp
+Institutional-grade liquidation engine designed to eliminate:
+- Oracle desync  
+- Front-running  
+- Execution failures  
 
----
-
-### 🤖 AggLayer AI · Web3 · 2025
-AI-driven yield optimization engine that dynamically reallocates capital  
-across Polygon PoS, zkEVM, and CDK chains.
-
-**Stack:** Solidity · React · Vite  
-**Signal:** ML × capital efficiency
+**Stack:** Polygon · zkEVM · Solidity · React
 
 ---
 
-### ⚔️ ARENA-X · Web3 · 2025
-Autonomous AI agents compete in algorithmic trading duels.  
-Strategies are verifiable, outcomes transparent, bets permissionless.
+### **AggLayer AI** · Web3 · 2025  
+**AI-driven DeFi yield optimization across Polygon chains**
 
-**Stack:** Linera · Wagmi · React  
-**Signal:** Experimental systems thinking
+Machine learning system that automatically rebalances capital across:
+- Polygon PoS  
+- zkEVM  
+- CDK chains  
 
----
-
-### 👥 CollabHub (Beta) · Web2 & Web3 · 2025
-Team-formation platform for hackathons and side projects with  
-role-based approvals and privacy-aware contact sharing.
-
-**Stack:** React · TypeScript · Convex  
-**Signal:** Product + UX maturity
+**Stack:** Solidity · React · Vite
 
 ---
 
-### 🛡️ BruteForce Simulator · Cybersecurity · 2025
-Live hardware-backed 4-digit PIN brute-force demo using Digispark  
-to show why weak authentication fails in the real world.
+### **ARENA-X** · Web3 · 2025  
+**Autonomous AI agents competing in algorithmic trading battles**
 
-**Stack:** HTML · CSS · JavaScript  
-**Signal:** Security intuition > theory
+A competitive arena where AI agents:
+- Execute verifiable strategies  
+- Compete in high-frequency trading duels  
+- Enable transparent staking & rewards  
+
+**Stack:** Linera · Wagmi · React
 
 ---
 
-## 🛠️ Stack I Actually Use
+### **CollabHub (Beta)** · Web2 & Web3 · 2025  
+**Team formation platform for hackathons & side projects**
 
+Role-based applications, approval workflows, social verification, and
+privacy-controlled contact sharing.
+
+**Stack:** React · TypeScript · Convex
+
+---
+
+### **RoomBro (Beta)** · Web2 · 2025  
+**Student-first room, roommate & tiffin discovery platform**
+
+Built to solve real student pain points with a clean, no-spam experience.
+
+**Stack:** React · TypeScript · Convex
+
+---
+
+### **BruteForce Simulator** · Cybersecurity · 2025  
+**Hardware-backed PIN brute-force demonstration**
+
+Live 4-digit PIN attack simulation using a Digispark device to demonstrate
+real-world feasibility of weak authentication.
+
+**Stack:** HTML · CSS · JavaScript
+
+---
+
+## 🛠️ Core Tech Stack
 - **Languages:** TypeScript, JavaScript, Solidity, Move  
 - **Frontend:** React, Vite  
 - **Web3:** Polygon, zkEVM, Aptos  
-- **Security:** attack simulations, threat modeling  
+- **Infra / Data:** Convex  
+- **Security:** Attack simulations, threat modeling  
 
 ---
 
-## 📊 GitHub Pulse
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SIDDHUX9&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDDHUX9&show_icons=true&count_private=true&hide_border=true&theme=transparent&cache_seconds=86400)
-
----
-
-## 🌐 Reach Me
-
-- 🌍 Portfolio: https://siddhu.info  
-- 💼 LinkedIn: https://www.linkedin.com/in/siddhu-singh-aa5b58310/  
-- 📧 Email: siddhu3116@gmail.com  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHUX9&layout=compact&theme=radical" />
+</p>
 
 ---
 
-> *Not chasing trends. Chasing understanding.*
+## 🌐 Find Me Elsewhere
+- 🌍 Portfolio: **https://siddhu.info**
+- 💼 LinkedIn: https://www.linkedin.com/in/siddhu-singh-aa5b58310/
+- 📧 Email: siddhu3116@gmail.com
+
+---
+
+> I don’t chase trends — I try to understand systems deeply enough to build them properly.
