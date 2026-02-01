@@ -1,132 +1,105 @@
-# Hi, I’m Siddhu 👋  
-**Builder · Web3 Systems · AI × Crypto × Security**
+# ⚡ Siddhu ⚡
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Web3+Infrastructure+Builder;AI+%E2%80%A2+Zero-Knowledge+%E2%80%A2+On-chain+Systems;Learning+by+Building+Real+Things" alt="Typing SVG" />
-</p>
-
-I build **real systems**, not demo apps — mostly at the intersection of  
-**Web3 infrastructure, AI verification, and security-first design**.
-
-My portfolio lives here 👉 **https://siddhu.info**  
-(GitHub is where the code and experiments happen.)
+**Web3 Systems · AI Verification · Security-First Builder**
 
 ---
 
-## 🧠 What I Focus On
-- Web3 infrastructure & protocol-level thinking  
-- AI + cryptographic verification (ZK-adjacent systems)  
-- Security-aware product design  
-- Turning complex ideas into working systems  
+## 🧠 Mental Model
+
+idea → mechanism → threat model → code → break it → fix it → ship
+
+
+I like working where **failure is expensive** and correctness matters.
 
 ---
 
-## 🚀 Selected Projects (High-Signal Only)
+## ⚡ Focus Zones
 
-### **Deepfake Hunters** · Web3 · 2026  
-**Decentralized AI misinformation prediction market**
+- 🚀 Web3 Infrastructure  
+- 🤖 AI + Verification  
+- 🔒 Security & Threat Modeling  
+- 🧩 Complex Systems  
 
-A trustless system to identify and flag AI-generated media using:
-- Aptos for transparent settlement  
-- Immutable content archiving  
-- Probabilistic AI verification  
-- Incentive-driven prediction markets  
+---
+
+## 🧪 Selected Systems (Not Toy Projects)
+
+### 🧠 Deepfake Hunters · Web3 · 2026
+Decentralized prediction market to fight AI misinformation.  
+Incentivizes users to identify synthetic media using transparent settlement  
+and probabilistic verification.
 
 **Stack:** Aptos · Move · React · TypeScript  
-🔗 Source available on request
+**Signal:** Mechanism design + AI + crypto
 
 ---
 
-### **Zk-Liquidate** · Web3 · 2025  
-**Cross-chain liquidation infrastructure with ZK-verified intents**
+### 🔗 Zk-Liquidate · Web3 · 2025
+Cross-chain liquidation infrastructure using **ZK-verified intents**  
+to eliminate oracle desync, front-running, and failed execution.
 
-Institutional-grade liquidation engine designed to eliminate:
-- Oracle desync  
-- Front-running  
-- Execution failures  
-
-**Stack:** Polygon · zkEVM · Solidity · React
+**Stack:** Polygon · zkEVM · Solidity  
+**Signal:** DeFi infra, not a dApp
 
 ---
 
-### **AggLayer AI** · Web3 · 2025  
-**AI-driven DeFi yield optimization across Polygon chains**
+### 🤖 AggLayer AI · Web3 · 2025
+AI-driven yield optimization engine that dynamically reallocates capital  
+across Polygon PoS, zkEVM, and CDK chains.
 
-Machine learning system that automatically rebalances capital across:
-- Polygon PoS  
-- zkEVM  
-- CDK chains  
-
-**Stack:** Solidity · React · Vite
+**Stack:** Solidity · React · Vite  
+**Signal:** ML × capital efficiency
 
 ---
 
-### **ARENA-X** · Web3 · 2025  
-**Autonomous AI agents competing in algorithmic trading battles**
+### ⚔️ ARENA-X · Web3 · 2025
+Autonomous AI agents compete in algorithmic trading duels.  
+Strategies are verifiable, outcomes transparent, bets permissionless.
 
-A competitive arena where AI agents:
-- Execute verifiable strategies  
-- Compete in high-frequency trading duels  
-- Enable transparent staking & rewards  
-
-**Stack:** Linera · Wagmi · React
+**Stack:** Linera · Wagmi · React  
+**Signal:** Experimental systems thinking
 
 ---
 
-### **CollabHub (Beta)** · Web2 & Web3 · 2025  
-**Team formation platform for hackathons & side projects**
+### 👥 CollabHub (Beta) · Web2 & Web3 · 2025
+Team-formation platform for hackathons and side projects with  
+role-based approvals and privacy-aware contact sharing.
 
-Role-based applications, approval workflows, social verification, and
-privacy-controlled contact sharing.
-
-**Stack:** React · TypeScript · Convex
-
----
-
-### **RoomBro (Beta)** · Web2 · 2025  
-**Student-first room, roommate & tiffin discovery platform**
-
-Built to solve real student pain points with a clean, no-spam experience.
-
-**Stack:** React · TypeScript · Convex
+**Stack:** React · TypeScript · Convex  
+**Signal:** Product + UX maturity
 
 ---
 
-### **BruteForce Simulator** · Cybersecurity · 2025  
-**Hardware-backed PIN brute-force demonstration**
+### 🛡️ BruteForce Simulator · Cybersecurity · 2025
+Live hardware-backed 4-digit PIN brute-force demo using Digispark  
+to show why weak authentication fails in the real world.
 
-Live 4-digit PIN attack simulation using a Digispark device to demonstrate
-real-world feasibility of weak authentication.
-
-**Stack:** HTML · CSS · JavaScript
+**Stack:** HTML · CSS · JavaScript  
+**Signal:** Security intuition > theory
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🛠️ Stack I Actually Use
+
 - **Languages:** TypeScript, JavaScript, Solidity, Move  
 - **Frontend:** React, Vite  
 - **Web3:** Polygon, zkEVM, Aptos  
-- **Infra / Data:** Convex  
-- **Security:** Attack simulations, threat modeling  
+- **Security:** attack simulations, threat modeling  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIDDHUX9&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical" />
-</p>
+## 📊 GitHub Pulse
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHUX9&layout=compact&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDDHUX9&show_icons=true&count_private=true&hide_border=true&theme=transparent&cache_seconds=86400)
 
 ---
 
-## 🌐 Find Me Elsewhere
-- 🌍 Portfolio: **https://siddhu.info**
-- 💼 LinkedIn: https://www.linkedin.com/in/siddhu-singh-aa5b58310/
-- 📧 Email: siddhu3116@gmail.com
+## 🌐 Reach Me
+
+- 🌍 Portfolio: https://siddhu.info  
+- 💼 LinkedIn: https://www.linkedin.com/in/siddhu-singh-aa5b58310/  
+- 📧 Email: siddhu3116@gmail.com  
 
 ---
 
-> I don’t chase trends — I try to understand systems deeply enough to build them properly.
+> *Not chasing trends. Chasing understanding.*
