@@ -1,107 +1,132 @@
- # Hi there, I'm Siddhu 👋 
+# Hi, I’m Siddhu 👋  
+**Builder · Web3 Systems · AI × Crypto × Security**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Web3+Builder+%7C+Blockchain+Developer;Smart+Contracts+%7C+dApps+%7C+On-chain+Systems;Hackathon+Driven+%7C+Learning+by+Building" alt="Typing SVG" />
-</p>   
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Web3+Infrastructure+Builder;AI+%E2%80%A2+Zero-Knowledge+%E2%80%A2+On-chain+Systems;Learning+by+Building+Real+Things" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub! I'm a passionate **Web Developer** and **Tech Enthusiast** on a mission to create innovative and impactful projects.🚀  
-I love solving complex problems with clean, efficient code and always strive to learn new technologies and improve my skills. 
+I build **real systems**, not demo apps — mostly at the intersection of  
+**Web3 infrastructure, AI verification, and security-first design**.
 
----
- 
-## 🔧 Technologies & Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-blue?style=flat-square&logo=javascript)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-yellow?style=flat-square&logo=github-actions)
+My portfolio lives here 👉 **https://siddhu.info**  
+(GitHub is where the code and experiments happen.)
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDDHUX9&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-
----
-
-## 📈 GitHub Activity & Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHUX9&layout=compact&theme=radical)
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIDDHUX9&theme=github)
+## 🧠 What I Focus On
+- Web3 infrastructure & protocol-level thinking  
+- AI + cryptographic verification (ZK-adjacent systems)  
+- Security-aware product design  
+- Turning complex ideas into working systems  
 
 ---
 
-## 🧑‍💻 My Code Contributions
+## 🚀 Selected Projects (High-Signal Only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SIDDHUX9&theme=hacker&border_radius=10.4)](https://git.io/streak-stats)
+### **Deepfake Hunters** · Web3 · 2026  
+**Decentralized AI misinformation prediction market**
 
----
+A trustless system to identify and flag AI-generated media using:
+- Aptos for transparent settlement  
+- Immutable content archiving  
+- Probabilistic AI verification  
+- Incentive-driven prediction markets  
 
-## 🌱 I’m Currently Learning:
-
-- **Cybersecurity**: Exploring the world of ethical hacking and security protocols.
-- **Web Development**: Advanced React and Node.js to build full-stack applications.
-- **C++**: Deep diving into Data Structures and Algorithms.
-
----
-
-## 🚀 Current Projects
-
-- **[SmartLoads]([https://github.com/SIDDHUX9/X9LOAD)**: A live vehicle tracking and logistics platform for better transportation management.
-- **[glowbunny](https://github.com/SIDDHUX9/GlowBunny.com)**: A skincare E-commerce which suggests products personalised for you.
-- **[Facemash](https://code9-blip.github.io/facemash/)**: programmed Voting Algorithm for Facemash & Linked Firebase(all consents were taken by owner).
+**Stack:** Aptos · Move · React · TypeScript  
+🔗 Source available on request
 
 ---
 
-## 📫 How to Reach Me:
+### **Zk-Liquidate** · Web3 · 2025  
+**Cross-chain liquidation infrastructure with ZK-verified intents**
 
-- **Email**: [Gmail](mailto:siddhu3116@gmail.com)
-- **LinkedIn**: [Siddhu Singh](https://www.linkedin.com/in/siddhu-singh-aa5b58310/)
+Institutional-grade liquidation engine designed to eliminate:
+- Oracle desync  
+- Front-running  
+- Execution failures  
 
----
-
-
-## 🚀 Projects
-
-### [SmartLoads](https://siddhux9.github.io/X9LOAD/) 
-An innovative live vehicle tracking and logistics platform.
-- ![License](https://img.shields.io/badge/license-MIT-blue)
-- ![Contributors](https://img.shields.io/github/contributors/SIDDHUX9/X9LOAD)
-- ![Last Commit](https://img.shields.io/github/last-commit/SIDDHUX9/X9LOAD)
+**Stack:** Polygon · zkEVM · Solidity · React
 
 ---
 
-## 📝 Blog Posts
+### **AggLayer AI** · Web3 · 2025  
+**AI-driven DeFi yield optimization across Polygon chains**
 
-- [How I Built a Live Vehicle Tracking System - coming soon]
-- [How to create a wifi password grabber under 300rs using attiny85]
+Machine learning system that automatically rebalances capital across:
+- Polygon PoS  
+- zkEVM  
+- CDK chains  
 
----
-
-
-## 🎓 Learning Roadmap
-
-1. **Learn**: Advanced JavaScript & TypeScript
-2. **Build**: Full-stack app with Node.js, React, MongoDB
-3. **Master**: Cloud computing (AWS, GCP)
+**Stack:** Solidity · React · Vite
 
 ---
 
-## 📌 Pinned Projects
+### **ARENA-X** · Web3 · 2025  
+**Autonomous AI agents competing in algorithmic trading battles**
 
-- [SmartLoads](https://github.com/SIDDHUX9/X9LOAD): Live vehicle tracking system for logistics management.
+A competitive arena where AI agents:
+- Execute verifiable strategies  
+- Compete in high-frequency trading duels  
+- Enable transparent staking & rewards  
 
----
-
-## 🧩 Badges
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-blue?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-16.13-blue?style=flat-square&logo=react)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Stack:** Linera · Wagmi · React
 
 ---
 
-> There's no shame in falling in love with a line of code. After all, i'm just a collection of cells myself.
+### **CollabHub (Beta)** · Web2 & Web3 · 2025  
+**Team formation platform for hackathons & side projects**
 
-Made with ❤️ by **Siddhux9**
+Role-based applications, approval workflows, social verification, and
+privacy-controlled contact sharing.
+
+**Stack:** React · TypeScript · Convex
+
+---
+
+### **RoomBro (Beta)** · Web2 · 2025  
+**Student-first room, roommate & tiffin discovery platform**
+
+Built to solve real student pain points with a clean, no-spam experience.
+
+**Stack:** React · TypeScript · Convex
+
+---
+
+### **BruteForce Simulator** · Cybersecurity · 2025  
+**Hardware-backed PIN brute-force demonstration**
+
+Live 4-digit PIN attack simulation using a Digispark device to demonstrate
+real-world feasibility of weak authentication.
+
+**Stack:** HTML · CSS · JavaScript
+
+---
+
+## 🛠️ Core Tech Stack
+- **Languages:** TypeScript, JavaScript, Solidity, Move  
+- **Frontend:** React, Vite  
+- **Web3:** Polygon, zkEVM, Aptos  
+- **Infra / Data:** Convex  
+- **Security:** Attack simulations, threat modeling  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SIDDHUX9&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHUX9&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Find Me Elsewhere
+- 🌍 Portfolio: **https://siddhu.info**
+- 💼 LinkedIn: https://www.linkedin.com/in/siddhu-singh-aa5b58310/
+- 📧 Email: siddhu3116@gmail.com
+
+---
+
+> I don’t chase trends — I try to understand systems deeply enough to build them properly.
