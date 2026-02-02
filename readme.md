@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:7C3AED&height=300&section=header&text=Siddhu%20//%20System%20Architect&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web3%20%E2%9A%A1%20ZK-Proofs%20%E2%9A%A1%20AI-Native%20Protocols&descAlignY=60&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&multiline=true&width=620&height=100&lines=⚡+Building+Verifiable+Systems;🔮+Prediction+Markets+%7C+⚔️+Agent+Economies;🛡️+Zero-Knowledge+Infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&multiline=true&width=620&height=100&lines=⚡+Building+Verifiable+Systems;🔮+Prediction+Markets+%7C+⚔️+Agent+Economies;🛡️+Zero-Knowledge+Infrastructure"/>
 
 <br/>
 
