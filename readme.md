@@ -114,16 +114,10 @@ Enjoy occasional gaming and tech documentaries for creative inspiration.
 
 ---
 
-<div align="center">
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SIDDHUX9&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/SIDDHUX9/SIDDHUX9/output/github-snake-dark.svg)
-
----
-
-<div align="center">
 
 ### ✍️ **Random Dev Quote**
 
