@@ -104,16 +104,6 @@ Enjoy occasional gaming and tech documentaries for creative inspiration.
 
 ---
 
-<div align="center">
-
-## 🏆 **GitHub Trophies**
-
-![](https://github-profile-trophy.vercel.app/?username=SIDDHUX9&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SIDDHUX9&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
