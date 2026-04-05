@@ -89,6 +89,11 @@ Enjoy occasional gaming and tech documentaries for creative inspiration.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIDDHUX9&theme=aura_dark)
 
 <br/>
+<div align="center">
+
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHUX9&theme=radical" alt="SIDDHUX9" />
+</div>
 
 <!-- Languages and Stats -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIDDHUX9&theme=aura_dark)
