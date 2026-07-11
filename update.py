@@ -10,8 +10,9 @@ import hashlib
 # Account permissions: read:Followers, read:Starring, read:Watching
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
-HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
-USER_NAME = os.environ['USER_NAME']
+ACCESS_TOKEN = os.environ.get('ACCESS_TOKEN')
+HEADERS = {'authorization': 'token '+ ACCESS_TOKEN} if ACCESS_TOKEN else {}
+USER_NAME = os.environ.get('USER_NAME', 'SIDDHUX9')
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
 
@@ -322,6 +323,7 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     """
     tree = etree.parse(filename)
     root = tree.getroot()
+    justify_format(root, 'age_data', age_data, 38)
     justify_format(root, 'commit_data', commit_data, 22)
     justify_format(root, 'star_data', star_data, 14)
     justify_format(root, 'repo_data', repo_data, 6)
@@ -447,7 +449,7 @@ if __name__ == '__main__':
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
     formatter('account data', user_time)
-    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2002, 7, 5))
+    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2006, 1, 31))
     formatter('age calculation', age_time)
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)
