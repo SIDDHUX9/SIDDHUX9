@@ -16,7 +16,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="1180px" height="530px" fill="black" rx="15"/>
-<g transform="translate(22,20) scale(0.40,0.88)">
+<g transform="translate(22,20) scale(0.46,0.9)">
 <text x="0" y="0" fill="#7DF9FF" class="ascii">
 <tspan x="-10" y="-30"/>
 <tspan x="-10" y="-21"/>
