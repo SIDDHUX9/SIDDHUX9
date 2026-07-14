@@ -60,7 +60,7 @@ Enjoy occasional gaming and tech documentaries for creative inspiration.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhu3116@gmail.com)
 
 </div>
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SIDDHUX9.SIDDHUX9)
 ---
 
 # 💻 **Tech Stack**
