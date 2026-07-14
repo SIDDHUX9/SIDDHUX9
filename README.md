@@ -58,9 +58,9 @@ Enjoy occasional gaming and tech documentaries for creative inspiration.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhu-singh-aa5b58310) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIDDHUX9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhu3116@gmail.com)
-
-</div>
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SIDDHUX9.SIDDHUX9)
+</div>
+
 ---
 
 # 💻 **Tech Stack**
