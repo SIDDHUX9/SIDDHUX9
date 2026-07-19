@@ -87,6 +87,41 @@ Enjoy occasional gaming and tech documentaries for creative inspiration.
 ![Linux](https://img.shields.io/badge/Linux-🐧_OS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+# 📊 **GitHub Analytics**
+
+<div align="center">
+
+<!-- Profile Details -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIDDHUX9&theme=aura_dark)
+
+<br/>
+<div align="center">
+
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHUX9&theme=radical" alt="SIDDHUX9" />
+</div>
+
+<!-- Languages and Stats -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIDDHUX9&theme=aura_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIDDHUX9&theme=aura_dark)
+
+<br/>
+
+<!-- Stats and Productive Time -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIDDHUX9&theme=aura_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SIDDHUX9&theme=aura_dark&utcOffset=5.5)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SIDDHUX9&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+![GitHub Snake dark](https://raw.githubusercontent.com/SIDDHUX9/SIDDHUX9/output/github-snake-dark.svg)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SIDDHUX9.SIDDHUX9)
+---
 
 
 ### ✍️ **Random Dev Quote**
