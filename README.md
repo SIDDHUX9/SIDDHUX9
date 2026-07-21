@@ -105,10 +105,6 @@ Enjoy occasional gaming and tech documentaries for creative inspiration.
 
 <br/>
 
-<!-- Stats and Productive Time -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIDDHUX9&theme=aura_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SIDDHUX9&theme=aura_dark&utcOffset=5.5)
-
 </div>
 
 ---
