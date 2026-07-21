@@ -92,7 +92,7 @@ Enjoy occasional gaming and tech documentaries for creative inspiration.
 <div align="center">
 
 <!-- Profile Details -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIDDHUX9&theme=aura_dark)
+
 
 <br/>
 <div align="center">
@@ -102,8 +102,6 @@ Enjoy occasional gaming and tech documentaries for creative inspiration.
 </div>
 
 <!-- Languages and Stats -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIDDHUX9&theme=aura_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIDDHUX9&theme=aura_dark)
 
 <br/>
 
